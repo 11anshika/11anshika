@@ -10,7 +10,7 @@
 - Open source projects, especially in backend development and Java-related technologies.
 
 📫 How to reach me:
-- 11anshikasingh@gmail.com
+- 110anshikasingh@gmail.com
 
 😄 Pronouns:
 - She/Her
